@@ -31,7 +31,7 @@ The purpose of this assignment is to familiarize team members with the Git/Githu
 7. Make a text file called `example.txt` in the project folder. You can open up a file explorer in the project using
 
 ```bash
-    open .
+    open . (or "start ." if you're on PC)
 ```
 
 8. Write some text in this file using a text editor of your choice and save the file
